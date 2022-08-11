@@ -37,6 +37,10 @@ dependencies:
   tflite_flutter: ^0.9.0
   image_picker: ^0.8.5+3
   image: ^3.0.2
+  flutter_face_api: ^3.2.3
+  firebase_core: ^1.20.0
+  firebase_database: ^9.1.0
+  firebase_storage: ^10.3.4
   # matrix2d: ^1.0.2
   # numdart: ^1.0.0
 
@@ -69,7 +73,7 @@ flutter:
   assets:
     # - assets/selamPayFaceRecognetionmodel.tflite
     - assets/vgg16SelamPayVersion.tflite
-    # - assets/images/portrait.png
+    - assets/model_unquant.tflite
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

@@ -1,0 +1,2 @@
+0 cardIdentityNational
+1 non card

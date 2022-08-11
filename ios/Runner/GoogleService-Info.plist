@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>518657305422-3rt0k4utskqool9ar6phhliuugkvae2c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.518657305422-3rt0k4utskqool9ar6phhliuugkvae2c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>518657305422-4ceq8gk874fqbo3fj4j0ul7o51th77hl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBTC-UN6QzBlTGvJn0xMj-xD4PDQPLD7cM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>518657305422</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.identifyFace</string>
+	<key>PROJECT_ID</key>
+	<string>srim0app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>srim0app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:518657305422:ios:2ed4cdc6a2a3e1e40c8c1f</string>
+	<key>DATABASE_URL</key>
+	<string>https://srim0app-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

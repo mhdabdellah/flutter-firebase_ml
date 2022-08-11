@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "518657305422",
+    "firebase_url": "https://srim0app-default-rtdb.firebaseio.com",
+    "project_id": "srim0app",
+    "storage_bucket": "srim0app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518657305422:android:22313e68fec796460c8c1f",
+        "android_client_info": {
+          "package_name": "com.example.identify_face"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518657305422-qc63efkjmkd9kp24evmouadi07ps1qnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjPENXQRc2k2m2X6f2iFCizwmbwDL_nPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518657305422-qc63efkjmkd9kp24evmouadi07ps1qnj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518657305422-34b7efb278r4qd71260kh7sgc5a45f3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.selampay.ecollect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518657305422:android:c90fea65fbb1831d0c8c1f",
+        "android_client_info": {
+          "package_name": "com.selampay.checklist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518657305422-qc63efkjmkd9kp24evmouadi07ps1qnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjPENXQRc2k2m2X6f2iFCizwmbwDL_nPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518657305422-qc63efkjmkd9kp24evmouadi07ps1qnj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518657305422-34b7efb278r4qd71260kh7sgc5a45f3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.selampay.ecollect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518657305422:android:1f9d2005935539cb0c8c1f",
+        "android_client_info": {
+          "package_name": "com.selampay.ecollect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518657305422-4tfbhm7ur3m3tbatfac3660ea7l5pd9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selampay.ecollect",
+            "certificate_hash": "cfda98cb7cc147337e8591a911600f4da6baa46f"
+          }
+        },
+        {
+          "client_id": "518657305422-noflh2nds0t8vt61c756h3lq0avaejk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selampay.ecollect",
+            "certificate_hash": "054018696923d2ee7e166f2186f9f73466adc27e"
+          }
+        },
+        {
+          "client_id": "518657305422-qc63efkjmkd9kp24evmouadi07ps1qnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjPENXQRc2k2m2X6f2iFCizwmbwDL_nPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518657305422-qc63efkjmkd9kp24evmouadi07ps1qnj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518657305422-34b7efb278r4qd71260kh7sgc5a45f3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.selampay.ecollect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518657305422:android:9262a07aaa0fb2ea0c8c1f",
+        "android_client_info": {
+          "package_name": "com.test.imauritanie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518657305422-4ceq8gk874fqbo3fj4j0ul7o51th77hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.imauritanie",
+            "certificate_hash": "054018696923d2ee7e166f2186f9f73466adc27e"
+          }
+        },
+        {
+          "client_id": "518657305422-fqpi08fdo1gq56o1i0mucsass77cr52v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.imauritanie",
+            "certificate_hash": "cfda98cb7cc147337e8591a911600f4da6baa46f"
+          }
+        },
+        {
+          "client_id": "518657305422-qc63efkjmkd9kp24evmouadi07ps1qnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjPENXQRc2k2m2X6f2iFCizwmbwDL_nPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518657305422-qc63efkjmkd9kp24evmouadi07ps1qnj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518657305422-34b7efb278r4qd71260kh7sgc5a45f3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.selampay.ecollect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

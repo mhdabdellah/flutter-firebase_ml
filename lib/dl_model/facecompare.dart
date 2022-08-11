@@ -9,7 +9,7 @@ class FaceCompare {
 
   Interpreter? _interpreter;
   Interpreter? get interpreter => _interpreter;
-  double threshold = 0.3;
+  double threshold = 0.4;
   // dfuihuifj
   List? _predictedimage1;
   List? _predictedimage2;
@@ -51,6 +51,30 @@ class FaceCompare {
       }
     }
     return convertedBytes.buffer.asFloat32List();
+  }
+
+  /// Runs model on the inputs
+  List? getVector(File image)  {
+
+    var img = preProcess(image);
+    img = img.reshape([1,100, 100, 3]);
+    
+
+    if (_interpreter == null) {
+      print("Interpreter not initialized");
+      return null;
+    }else{
+      print("Interpreter is initialised succefully ");
+    }
+
+    // // run inference
+    var interpreter = _interpreter!;
+    // var inputs = <List>[img1, imge2];
+    List outputimage = List.generate(1, (index) => List.filled(512, 0));
+    interpreter.run(img, outputimage);
+    // get outputs lists
+    // _interpreter!.close();
+    return List.from(outputimage);
   }
 
 
