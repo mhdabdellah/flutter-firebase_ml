@@ -174,7 +174,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   )
                 ),
                 SizedBox(
-                      height: 60.0,
+                      height: 40.0,
                     ),
                 InkWell(
                   onTap: () async {
@@ -230,6 +230,9 @@ class _MyHomePageState extends State<MyHomePage> {
                     )
                   )
                 ),
+                SizedBox(
+                      height: 40.0,
+                    ),
                 resultprediction != null ?
                 Container(
                   child: Text(resultprediction!,
@@ -240,6 +243,9 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),
                 ):Container(
                 ),
+                SizedBox(
+                      height: 40.0,
+                    ),
                 Container(
                     width: double.infinity,
                     color: Colors.blue,

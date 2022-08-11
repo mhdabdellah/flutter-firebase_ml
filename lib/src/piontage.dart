@@ -131,6 +131,9 @@ class _PointageState extends State<Pointage> {
                       }catch(e){
                         print(e);
                       }
+                      setState(() {
+                        imageFile = null;
+                      });
                       
                     },
                     child: Text(

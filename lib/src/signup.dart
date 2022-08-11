@@ -200,6 +200,11 @@ class _SignupState extends State<Signup> {
                       }catch(e){
                         print(e);
                       }
+                      setState(() {
+                        imageFile = null;
+                        userNameController.text = '';
+                        userPhoneController.text = '';
+                      });
                       
                     },
                     child: Text(
