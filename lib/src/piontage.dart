@@ -64,7 +64,7 @@ class _PointageState extends State<Pointage> {
               crossAxisAlignment: CrossAxisAlignment.center,
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Text(
+                Text(  
                   'Pointage',
                   style: TextStyle(
                     fontSize: 40.0,
